@@ -1,0 +1,431 @@
+#EXTM3U
+#EXTINF:0 tvg-id="BNT1" tvg-name="◉Bnt1" tvg-logo="https://i.hizliresim.com/hamzete.png" group-title="BG 》 Bulgaria   ",BG◉ Bnt  1 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562697&extension=ts
+#EXTINF:0 tvg-id="BNT2" tvg-name="◉Bnt2" tvg-logo="https://i.hizliresim.com/sf7tbxe.png" group-title="BG 》 Bulgaria   ",BG◉ Bnt 2
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562698&extension=ts
+#EXTINF:0 tvg-id="BNTWorld" tvg-name="◉Bnt3" tvg-logo="https://i.hizliresim.com/8xafqrz.png" group-title="BG 》 Bulgaria   ",BG◉ Bnt 3 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562699&extension=ts
+#EXTINF:0 tvg-id="BNT4" tvg-name="◉Bnt4" tvg-logo="https://i.hizliresim.com/219kin6.png" group-title="BG 》 Bulgaria   ",BG◉ Bnt 4
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562700&extension=ts
+#EXTINF:0 tvg-id="Nova" tvg-name="◉NOVA" tvg-logo="https://i.hizliresim.com/d4jg6ha.png" group-title="BG 》 Bulgaria   ",BG◉ NOVA TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562817&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉AlgoInfoTv" tvg-logo="https://i.hizliresim.com/nz1pc8i.png" group-title="BG 》 Bulgaria   ",BG◉ Algo Info Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562696&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉SkatTv" tvg-logo="https://i.hizliresim.com/juxkcpw.png" group-title="BG 》 Bulgaria   ",BG◉ Skat Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562815&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉1" tvg-logo="https://i.hizliresim.com/i9oa0xk.png" group-title="BG 》 Bulgaria   ",BG◉ TV 1 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562814&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉RodinaTv" tvg-logo="https://i.hizliresim.com/rwujby0.png" group-title="BG 》 Bulgaria   ",BG◉ Rodina Tv HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562813&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉VtkTv" tvg-logo="https://i.hizliresim.com/hgv6ltb.png" group-title="BG 》 Bulgaria   ",BG◉ Vtk Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562812&extension=ts
+#EXTINF:0 tvg-id="CityTV" tvg-name="◉CityTv" tvg-logo="https://i.hizliresim.com/tnqoy1s.png" group-title="BG 》 Bulgaria   ",BG◉ City Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562811&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Bulgaria24" tvg-logo="https://i.hizliresim.com/48icc49.png" group-title="BG 》 Bulgaria   ",BG◉ Bulgaria 24
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562810&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉MagicTv" tvg-logo="https://i.hizliresim.com/n9c2h1d.png" group-title="BG 》 Bulgaria   ",BG◉ Magic Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562809&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BoxMusicTv" tvg-logo="https://i.hizliresim.com/7h4ynz1.png" group-title="BG 》 Bulgaria   ",BG◉ Box Music Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562808&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Tv999" tvg-logo="https://i.hizliresim.com/2ywsr49.png" group-title="BG 》 Bulgaria   ",BG◉ Tv 999 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562807&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TiankofOrientTv" tvg-logo="https://i.hizliresim.com/h65ihlt.png" group-title="BG 》 Bulgaria   ",BG◉ Tiankof Orient Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562806&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BgMusic" tvg-logo="https://i.hizliresim.com/6ai7gfp.png" group-title="BG 》 Bulgaria   ",BG◉ Bg Music HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562805&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Dstv" tvg-logo="https://i.hizliresim.com/bh0vupt.png" group-title="BG 》 Bulgaria   ",BG◉ Dstv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562804&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FenTv" tvg-logo="https://i.hizliresim.com/4zxob8y.png" group-title="BG 》 Bulgaria   ",BG◉ Fen Tv HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562803&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉PlanetaFolk" tvg-logo="https://i.hizliresim.com/ira4fi6.png" group-title="BG 》 Bulgaria   ",BG◉ Planeta Folk
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562802&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Planeta" tvg-logo="https://i.hizliresim.com/s60so3p.png" group-title="BG 》 Bulgaria   ",BG◉ Planeta HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562801&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BalkanikaMusicTv" tvg-logo="https://i.hizliresim.com/qji7yrs.png" group-title="BG 》 Bulgaria   ",BG◉ Balkanika Music Tv HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562800&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TvArt" tvg-logo="https://i.hizliresim.com/g2y6ynf.png" group-title="BG 》 Bulgaria   ",BG◉ Tv Art
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562798&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉ThisistBulgaria" tvg-logo="https://i.hizliresim.com/ayryivg.png" group-title="BG 》 Bulgaria   ",BG◉ This ist Bulgaria
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562797&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Fishing&Hunting" tvg-logo="https://i.hizliresim.com/nv6luv3.png" group-title="BG 》 Bulgaria   ",BG◉ Fishing & Hunting
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562796&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉SoulandPepper" tvg-logo="https://i.hizliresim.com/30cecq4.png" group-title="BG 》 Bulgaria   ",BG◉ Soul and Pepper HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562793&extension=ts
+#EXTINF:0 tvg-id="FoodNetwork" tvg-name="◉FoodNetwork" tvg-logo="https://i.hizliresim.com/pyk244v.png" group-title="BG 》 Bulgaria   ",BG◉ Food Network HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562792&extension=ts
+#EXTINF:0 tvg-id="24kitchen" tvg-name="◉Kitchen24" tvg-logo="https://i.hizliresim.com/sc94u7y.png" group-title="BG 》 Bulgaria   ",BG◉ Kitchen 24 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562791&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉CodeHealtTv" tvg-logo="https://i.hizliresim.com/9xu4ger.png" group-title="BG 》 Bulgaria   ",BG◉ Code Healt Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562790&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Nautical" tvg-logo="https://i.hizliresim.com/7nnakf7.png" group-title="BG 》 Bulgaria   ",BG◉ Nautical HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562789&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TheWorld" tvg-logo="https://i.hizliresim.com/o48kbzb.png" group-title="BG 》 Bulgaria   ",BG◉ The World
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562788&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉HGTV" tvg-logo="https://i.hizliresim.com/n303apo.png" group-title="BG 》 Bulgaria   ",BG◉ HGTV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562787&extension=ts
+#EXTINF:0 tvg-id="TLC" tvg-name="◉TlcTv" tvg-logo="https://i.hizliresim.com/45lf5we.png" group-title="BG 》 Bulgaria   ",BG◉ Tlc Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562786&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TravelBulgaria" tvg-logo="https://i.hizliresim.com/e7z16ak.png" group-title="BG 》 Bulgaria   ",BG◉ Travel Bulgaria
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562785&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TravelChannel" tvg-logo="https://i.hizliresim.com/cjj198c.png" group-title="BG 》 Bulgaria   ",BG◉ Travel Channel HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562784&extension=ts
+#EXTINF:0 tvg-id="DocuBox" tvg-name="◉DocuBox" tvg-logo="https://i.hizliresim.com/nri24it.png" group-title="BG 》 Bulgaria   ",BG◉ DocuBox HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562783&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉CbsReality" tvg-logo="https://i.hizliresim.com/p6b69mw.png" group-title="BG 》 Bulgaria   ",BG◉ Cbs Reality
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562782&extension=ts
+#EXTINF:0 tvg-id="History" tvg-name="◉HistoryChannel" tvg-logo="https://i.hizliresim.com/eyhtrry.png" group-title="BG 》 Bulgaria   ",BG◉ History Channel HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562781&extension=ts
+#EXTINF:0 tvg-id="ViasatNature" tvg-name="◉ViasatNature" tvg-logo="https://i.hizliresim.com/a086qj3.png" group-title="BG 》 Bulgaria   ",BG◉ Viasat Nature HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562780&extension=ts
+#EXTINF:0 tvg-id="ViasatHistory" tvg-name="◉ViasatHistory" tvg-logo="https://i.hizliresim.com/q4j5loq.png" group-title="BG 》 Bulgaria   ",BG◉ Viasat History HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562779&extension=ts
+#EXTINF:0 tvg-id="ViasatExplore" tvg-name="◉ViasatExplorer" tvg-logo="https://i.hizliresim.com/hc5qaf5.png" group-title="BG 》 Bulgaria   ",BG◉ Viasat Explorer
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562778&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉LoveNature" tvg-logo="https://i.hizliresim.com/ffdujvs.png" group-title="BG 》 Bulgaria   ",BG◉ Love Nature HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562777&extension=ts
+#EXTINF:0 tvg-id="AnimalPlanet" tvg-name="◉AnimalPlanet" tvg-logo="https://i.hizliresim.com/obf32tg.png" group-title="BG 》 Bulgaria   ",BG◉ Animal Planet HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562776&extension=ts
+#EXTINF:0 tvg-id="NatGeoWild" tvg-name="◉NatGeoWild" tvg-logo="https://i.hizliresim.com/4eb48p3.png" group-title="BG 》 Bulgaria   ",BG◉ Nat Geo Wild HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562775&extension=ts
+#EXTINF:0 tvg-id="NatGeo" tvg-name="◉NationalGeographic" tvg-logo="https://i.hizliresim.com/ak57gp0.png" group-title="BG 》 Bulgaria   ",BG◉ National Geographic HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562774&extension=ts
+#EXTINF:0 tvg-id="InvestigationDiscovery" tvg-name="◉Crime&InvestigationNetwork" tvg-logo="https://i.hizliresim.com/qt1x02y.png" group-title="BG 》 Bulgaria   ",BG◉ Crime & Investigation Network
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562773&extension=ts
+#EXTINF:0 tvg-id="IDXtra" tvg-name="◉DiscoveryXtra" tvg-logo="https://i.hizliresim.com/gczetax.png" group-title="BG 》 Bulgaria   ",BG◉ Discovery ID Xtra HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562772&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DiscoverySci" tvg-logo="https://i.hizliresim.com/azulo9l.png" group-title="BG 》 Bulgaria   ",BG◉ Discovery Sci HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562771&extension=ts
+#EXTINF:0 tvg-id="DiscoveryChannel" tvg-name="◉DiscoveryChannel" tvg-logo="https://i.hizliresim.com/rogtdq5.png" group-title="BG 》 Bulgaria   ",BG◉ Discovery Channel
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562770&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉100%Automoto" tvg-logo="https://i.hizliresim.com/j0lxjje.png" group-title="BG 》 Bulgaria   ",BG◉ 100% Automoto
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562769&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉WNessSport" tvg-logo="https://i.hizliresim.com/jrryt57.png" group-title="BG 》 Bulgaria   ",BG◉ W Ness Sport HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562768&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉B1BAction" tvg-logo="https://i.hizliresim.com/g975wsq.png" group-title="BG 》 Bulgaria   ",BG◉ B1B Action HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562762&extension=ts
+#EXTINF:0 tvg-id="RING" tvg-name="◉RingBg" tvg-logo="https://i.hizliresim.com/co4zlh7.png" group-title="BG 》 Bulgaria   ",BG◉ Ring Bg HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562761&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉History2" tvg-logo="https://i.hizliresim.com/s1chj1w.png" group-title="BG 》 Bulgaria   ",BG◉ History 2 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562760&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉RomaTv" tvg-logo="https://i.hizliresim.com/h45rts1.png" group-title="BG 》 Bulgaria   ",BG◉ Roma Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562755&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉MTVClub" tvg-logo="https://i.hizliresim.com/4kag3yh.png" group-title="BG 》 Bulgaria   ",BG◉ MTV Club
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562754&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Bstv" tvg-logo="https://i.hizliresim.com/sp32jf5.png" group-title="BG 》 Bulgaria   ",BG◉ Bstv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562753&extension=ts
+#EXTINF:0 tvg-id="BloombergTVBulgaria" tvg-name="◉BloombergTv" tvg-logo="https://i.hizliresim.com/pj12q4f.png" group-title="BG 》 Bulgaria   ",BG◉ Bloomberg Tv HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562752&extension=ts
+#EXTINF:0 tvg-id="Evropa" tvg-name="◉EuronewsTv" tvg-logo="https://i.hizliresim.com/kvgvm70.png" group-title="BG 》 Bulgaria   ",BG◉ Euronews Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562751&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NOVANEWS" tvg-logo="https://i.hizliresim.com/tbttqf1.png" group-title="BG 》 Bulgaria   ",BG◉ NOVA NEWS
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562823&extension=ts
+#EXTINF:0 tvg-id="Diema" tvg-name="◉DIEMA" tvg-logo="https://i.hizliresim.com/9couqor.png" group-title="BG 》 Bulgaria   ",BG◉ DIEMA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562816&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Chasse&Peche" tvg-logo="https://i.hizliresim.com/5iiwgq5.png" group-title="BG 》 Bulgaria   ",BG◉ Chasse & Peche
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562749&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DaVinciLearning" tvg-logo="https://i.hizliresim.com/poenlor.png" group-title="BG 》 Bulgaria   ",BG◉ Da Vinci Learning
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562747&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉JimJamTv" tvg-logo="https://i.hizliresim.com/ix6qk0f.png" group-title="BG 》 Bulgaria   ",BG◉ Jim Jam Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562746&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DuckTv" tvg-logo="https://i.hizliresim.com/a4nc852.png" group-title="BG 》 Bulgaria   ",BG◉ Duck Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562745&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BoomerangTv" tvg-logo="https://i.hizliresim.com/e9ybzl4.png" group-title="BG 》 Bulgaria   ",BG◉ Boomerang Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562744&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DisneyJunior" tvg-logo="https://i.hizliresim.com/gi5tmc9.png" group-title="BG 》 Bulgaria   ",BG◉ Disney Junior
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562743&extension=ts
+#EXTINF:0 tvg-id="DisneyChannel" tvg-name="◉DisneyChannel" tvg-logo="https://i.hizliresim.com/5mlq3xx.png" group-title="BG 》 Bulgaria   ",BG◉ Disney Channel
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562742&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Supertoons" tvg-logo="https://i.hizliresim.com/9d9fwmx.png" group-title="BG 》 Bulgaria   ",BG◉ Supertoons
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562740&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Nicktoons" tvg-logo="https://i.hizliresim.com/aeu3bz9.png" group-title="BG 》 Bulgaria   ",BG◉ Nicktoons HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562739&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NickJunior" tvg-logo="https://i.hizliresim.com/qnrhuzb.png" group-title="BG 》 Bulgaria   ",BG◉ Nick Junior
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562738&extension=ts
+#EXTINF:0 tvg-id="Nickelodeon" tvg-name="◉Nickelodeon" tvg-logo="https://i.hizliresim.com/30zrhfo.png" group-title="BG 》 Bulgaria   ",BG◉ Nickelodeon
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562737&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BabyTv" tvg-logo="https://i.hizliresim.com/lk5kt3l.png" group-title="BG 》 Bulgaria   ",BG◉ Baby Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562736&extension=ts
+#EXTINF:0 tvg-id="EKids" tvg-name="◉EKids" tvg-logo="https://i.hizliresim.com/q9j9js1.png" group-title="BG 》 Bulgaria   ",BG◉ E Kids
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562735&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉Tdc" tvg-logo="https://i.hizliresim.com/1socpct.png" group-title="BG 》 Bulgaria   ",BG◉ Tdc
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562734&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NostalgiaTv" tvg-logo="https://i.hizliresim.com/5uuncjs.png" group-title="BG 》 Bulgaria   ",BG◉ Nostalgia HD Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562733&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉VivacomArena" tvg-logo="https://i.hizliresim.com/g5kbj7n.png" group-title="BG 》 Bulgaria   ",BG◉ Vivacom Arena
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562732&extension=ts
+#EXTINF:0 tvg-id="TV1000" tvg-name="◉Tv1000" tvg-logo="https://i.hizliresim.com/3ibk8m2.png" group-title="BG 》 Bulgaria   ",BG◉ Tv 1000
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562730&extension=ts
+#EXTINF:0 tvg-id="AMC" tvg-name="◉AmcTv" tvg-logo="https://i.hizliresim.com/95ycgow.png" group-title="BG 》 Bulgaria   ",BG◉ Amc Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562728&extension=ts
+#EXTINF:0 tvg-id="EpicDrama" tvg-name="◉EpicDrama" tvg-logo="https://i.hizliresim.com/73nhw5x.png" group-title="BG 》 Bulgaria   ",BG◉ Epic Drama HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562729&extension=ts
+#EXTINF:0 tvg-id="AXNWhite" tvg-name="◉AxnWhite" tvg-logo="https://i.hizliresim.com/r0e85b6.png" group-title="BG 》 Bulgaria   ",BG◉ Axn White
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562718&extension=ts
+#EXTINF:0 tvg-id="AXNBlack" tvg-name="◉AxnBlack" tvg-logo="https://i.hizliresim.com/n692ajn.png" group-title="BG 》 Bulgaria   ",BG◉ Axn Black
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562717&extension=ts
+#EXTINF:0 tvg-id="Cinemax" tvg-name="◉CINEMANIA" tvg-logo="https://i.hizliresim.com/npmem6r.png" group-title="BG 》 Bulgaria   ",BG◉ CINEMANIA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562824&extension=ts
+#EXTINF:0 tvg-id="DiemaFamily" tvg-name="◉DIEMAFAMILY" tvg-logo="https://i.hizliresim.com/eg6lgy0.png" group-title="BG 》 Bulgaria   ",BG◉ DIEMA FAMILY
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562825&extension=ts
+#EXTINF:0 tvg-id="KinoNova" tvg-name="◉KINONOVA" tvg-logo="https://i.hizliresim.com/201jj7g.png" group-title="BG 》 Bulgaria   ",BG◉ KINO NOVA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562822&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉MovieStar" tvg-logo="https://i.hizliresim.com/egfdze7.png" group-title="BG 》 Bulgaria   ",BG◉ Movie Star HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562727&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉ActionBox" tvg-logo="https://i.hizliresim.com/6xqxuhx.png" group-title="BG 》 Bulgaria   ",BG◉ Action.Box HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562726&extension=ts
+#EXTINF:0 tvg-id="Cinemax" tvg-name="◉Cinemax1" tvg-logo="" group-title="BG 》 Bulgaria   ",BG◉ Cinemax 1 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562722&extension=ts
+#EXTINF:0 tvg-id="Cinemax2" tvg-name="◉Cinemax2" tvg-logo="https://i.hizliresim.com/jja0d3i.png" group-title="BG 》 Bulgaria   ",BG◉ Cinemax 2 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562723&extension=ts
+#EXTINF:0 tvg-id="FilmBoxExtra" tvg-name="◉FilmBoxExtra" tvg-logo="https://i.hizliresim.com/fiacdqd.png" group-title="BG 》 Bulgaria   ",BG◉ Film Box Extra HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562721&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FilmBoxStars" tvg-logo="https://i.hizliresim.com/ldntmys.png" group-title="BG 》 Bulgaria   ",BG◉ Film Box Stars
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562720&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FilmBoxTv" tvg-logo="https://i.hizliresim.com/pl5ocfa.png" group-title="BG 》 Bulgaria   ",BG◉ Film Box Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562719&extension=ts
+#EXTINF:0 tvg-id="AXN" tvg-name="◉AxnTv" tvg-logo="https://i.hizliresim.com/r7npfi7.png" group-title="BG 》 Bulgaria   ",BG◉ Axn Tv
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562716&extension=ts
+#EXTINF:0 tvg-id="HBO" tvg-name="◉Hbo" tvg-logo="https://i.hizliresim.com/p1vxzvi.png" group-title="BG 》 Bulgaria   ",BG◉ Hbo HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562713&extension=ts
+#EXTINF:0 tvg-id="HBO2" tvg-name="◉Hbo2" tvg-logo="https://i.hizliresim.com/krjgie5.png" group-title="BG 》 Bulgaria   ",BG◉ Hbo 2 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562714&extension=ts
+#EXTINF:0 tvg-id="HBO3" tvg-name="◉Hbo3" tvg-logo="https://i.hizliresim.com/5st4jxt.png" group-title="BG 》 Bulgaria   ",BG◉ Hbo 3 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562715&extension=ts
+#EXTINF:0 tvg-id="FOXCrime" tvg-name="◉FoxCrime" tvg-logo="https://i.hizliresim.com/n7y57ys.png" group-title="BG 》 Bulgaria   ",BG◉ Fox Crime HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562712&extension=ts
+#EXTINF:0 tvg-id="FOXLife" tvg-name="◉FoxLife" tvg-logo="https://i.hizliresim.com/f2biuln.png" group-title="BG 》 Bulgaria   ",BG◉ Fox Life HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562711&extension=ts
+#EXTINF:0 tvg-id="FOX" tvg-name="◉FoxTv" tvg-logo="https://i.hizliresim.com/8bp52iu.png" group-title="BG 》 Bulgaria   ",BG◉ Fox Tv HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562710&extension=ts
+#EXTINF:0 tvg-id="bTVLady" tvg-name="◉bTVLady" tvg-logo="https://i.hizliresim.com/te707qx.png" group-title="BG 》 Bulgaria   ",BG◉ bTV Lady HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562709&extension=ts
+#EXTINF:0 tvg-id="bTVAction" tvg-name="◉bTVAction" tvg-logo="https://i.hizliresim.com/ths0kdh.png" group-title="BG 》 Bulgaria   ",BG◉ bTV Action HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562708&extension=ts
+#EXTINF:0 tvg-id="bTVCinema" tvg-name="◉bTVCinema" tvg-logo="https://i.hizliresim.com/kmv9z9b.png" group-title="BG 》 Bulgaria   ",BG◉ bTV Cinema HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562707&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉bTVComedy" tvg-logo="https://i.hizliresim.com/jro593b.png" group-title="BG 》 Bulgaria   ",BG◉ bTV Comedy HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562706&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉bTV" tvg-logo="https://i.hizliresim.com/31zhrm2.png" group-title="BG 》 Bulgaria   ",BG◉ bTV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562705&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉bTVFull" tvg-logo="https://i.hizliresim.com/31zhrm2.png" group-title="BG 》 Bulgaria   ",BG◉ bTV Full HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562704&extension=ts
+#EXTINF:0 tvg-id="Nova" tvg-name="◉NovaTvFull" tvg-logo="https://i.hizliresim.com/d4jg6ha.png" group-title="BG 》 Bulgaria   ",BG◉ Nova Tv Full HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562703&extension=ts
+#EXTINF:0 tvg-id="TV78" tvg-name="◉Tv7/8" tvg-logo="https://i.hizliresim.com/fqksyjr.png" group-title="BG 》 Bulgaria   ",BG◉ Tv 7/8
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562702&extension=ts
+#EXTINF:0 tvg-id="BulgariaONAIR" tvg-name="◉BgOnAir" tvg-logo="https://i.hizliresim.com/992hm1v.png" group-title="BG 》 Bulgaria   ",BG◉ Bg On Air
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562701&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉AutoMotorSport" tvg-logo="https://i.hizliresim.com/ay20mdj.png" group-title="BG 》 Bulgaria   ",BG◉ Auto Motor Sport HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562763&extension=ts
+#EXTINF:0 tvg-id="NovaSport" tvg-name="◉NOVASPORT" tvg-logo="https://i.hizliresim.com/n5pvb8a.png" group-title="BG 》 Bulgaria   ",BG◉ NOVA SPORT
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562818&extension=ts
+#EXTINF:0 tvg-id="MAXSport1" tvg-name="◉MaxSport1" tvg-logo="https://i.hizliresim.com/dc87aoc.png" group-title="BG 》 Bulgaria   ",BG◉ Max Sport 1 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562756&extension=ts
+#EXTINF:0 tvg-id="MAXSport2" tvg-name="◉MaxSport2" tvg-logo="https://i.hizliresim.com/ru2nllh.png" group-title="BG 》 Bulgaria   ",BG◉ Max Sport 2 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562757&extension=ts
+#EXTINF:0 tvg-id="MAXSport3" tvg-name="◉MaxSport3" tvg-logo="https://i.hizliresim.com/hp2tupt.png" group-title="BG 》 Bulgaria   ",BG◉ Max Sport 3 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562758&extension=ts
+#EXTINF:0 tvg-id="MAXSport4" tvg-name="◉MaxSport4" tvg-logo="https://i.hizliresim.com/7cuj59k.png" group-title="BG 》 Bulgaria   ",BG◉ Max Sport 4 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562759&extension=ts
+#EXTINF:0 tvg-id="Eurosport1" tvg-name="◉EuroSport1" tvg-logo="https://i.hizliresim.com/6mvnvdg.png" group-title="BG 》 Bulgaria   ",BG◉ Euro Sport 1 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562766&extension=ts
+#EXTINF:0 tvg-id="Eurosport2" tvg-name="◉EuroSport2" tvg-logo="https://i.hizliresim.com/hxexp1b.png" group-title="BG 》 Bulgaria   ",BG◉ Euro Sport 2 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562765&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉SportalTv" tvg-logo="https://i.hizliresim.com/h7bcrqu.png" group-title="BG 》 Bulgaria   ",BG◉ Sportal Tv HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562764&extension=ts
+#EXTINF:0 tvg-id="DiemaSport" tvg-name="◉DIEMASPORT1" tvg-logo="https://i.hizliresim.com/e44whe0.png" group-title="BG 》 Bulgaria   ",BG◉ DIEMA SPORT 1
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11850774&extension=ts
+#EXTINF:0 tvg-id="DiemaSport2" tvg-name="◉DIEMASPORT2" tvg-logo="https://i.hizliresim.com/e44whe0.png" group-title="BG 》 Bulgaria   ",BG◉ DIEMA SPORT 2
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562820&extension=ts
+#EXTINF:0 tvg-id="DiemaSport3" tvg-name="◉DIEMASPORT3" tvg-logo="https://i.hizliresim.com/e1g7iuf.png" group-title="BG 》 Bulgaria   ",BG◉ DIEMA SPORT 3
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11562821&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BULGARIA" tvg-logo="http://sltv-logo.cms-s.com/logo/flag/bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ ----- BULGARIA -----
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855670&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BNT" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BNTHD.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BNT HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855671&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BNT1" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BNT1.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BNT 1 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855672&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BNT2" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BNT2.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BNT 2 
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855673&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BNT2" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BNT2.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BNT 2 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855674&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BNT3" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/bnt-3-bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BNT 3 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855675&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BNT4" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/bnt-4-bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BNT 4 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855676&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NOVA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/NOVA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ NOVA TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855677&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NOVA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/NOVA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ NOVA TV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855678&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTV" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BTV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855679&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTV" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BTV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV FHD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855680&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉7/8" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/78-tv-bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ 7/8 TV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855681&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉ⓂFA" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/alfa_tv_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ AL ⓂFA TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855682&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉SKAT" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ SKAT
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855683&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DIEMA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/DIEMA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ DIEMA TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855684&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DIEMA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/DIEMA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ DIEMA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855685&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FOX" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/fox_global.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FOX HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855686&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BONAIR" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/b/BON-AIR.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BON AIR
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855687&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BOX" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/box_tv_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BOX TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855688&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BULGARIA24" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/bulgaria_24_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BULGARIA 24 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855689&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NOVANEWS" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ NOVA NEWS HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855690&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉EURONEWSBULGARIA" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ EURONEWS BULGARIA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855691&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BNT4WORLD" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BNTWORLD.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BNT 4 WORLD HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855692&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BULONAIR" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/bulgaria_on_air_tv.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BUL ON AIR HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855693&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉AMC" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/a/AMC-HD.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ AMC HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855694&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉KINONOVA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/KINONOVA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ KINO NOVA HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855695&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FPLUS" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/film_plus_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ F PLUS
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855696&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉MAGIC" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/MAGICTV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ MAGIC TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855697&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BLOOMBERG" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/bloomberg-tv-bulgaria-us-bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BLOOMBERG HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855698&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DSTV" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/dstv_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ DSTV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855699&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉EVROKOM" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/EVROKOM.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ EVROKOM HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855700&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BALⓂKANIKA" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ BAL ⓂKANIKA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855701&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FOODNETWORK" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/f/FOOD-NETWORK-HD.jpg" group-title="BG 》 Bulgaria (Server 2)",BG◉ FOOD NETWORK HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855702&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉ROMA" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/r/ROMA-CHANNEL.jpg" group-title="BG 》 Bulgaria (Server 2)",BG◉ ROMA TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855703&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TLCBALⓂKANS" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/TLC.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ TLC BAL ⓂKANS HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855704&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVACTION" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/btv_bg_action.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV ACTION
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855705&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVACTION" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV ACTION FHD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855706&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVCINEMA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BTVCINEMA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV CINEMA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855707&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVCINEMA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BTVCINEMA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV CINEMA FHD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855708&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVCOMEDY" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BTVCOMEDY.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV COMEDY
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855709&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVCOMEDY" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/BTVCOMEDY.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV COMEDY FHD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855710&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVLADY" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/btv_bg_lady.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV LADY
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855711&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BTVLADY" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/btv_bg_lady.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BTV LADY FHD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855712&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉ACTIONPLUS" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/ACTIONPLUS.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ ACTION PLUS HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855713&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉CINEMAPLUS" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/CINEMAPLUS.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ CINEMA PLUS HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855714&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉COMEDYPLUS" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/comedy_plus_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ COMEDY PLUS HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855715&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DIEMAFAMILY" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/DIEMAFAMILY.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ DIEMA FAMILY
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855716&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FILMPLUS" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/FILMPLUS.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FILM PLUS
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855717&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FILM+" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/film_plus_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FILM+
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855718&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FILMBOXEXTRA1" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/filmbox_extra_pl_hd.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FILMBOX EXTRA1
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855719&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉CINEMAX" tvg-logo="https://i.imgur.com/zpr6Jmm.jpg" group-title="BG 》 Bulgaria (Server 2)",BG◉ CINEMAX HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855720&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉CINEMAX2" tvg-logo="https://i.imgur.com/DZQTty2.jpg" group-title="BG 》 Bulgaria (Server 2)",BG◉ CINEMAX 2 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855721&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉VIASAT1000" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/t/TV1000.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ VIASAT TV 1000 HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855722&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉EPICDRAMA" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/epicdrama.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ EPIC DRAMA HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855723&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉AXN" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/AXN.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ AXN HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855724&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉HBO" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/h/HBO-HD.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ HBO
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855725&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉HBO2" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/HBO2.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ HBO 2
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855726&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉HBO3" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/HBO3.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ HBO 3
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855727&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TV1" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ TV1
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855728&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FOXCRIME" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/fox_crime_global.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FOX CRIME HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855729&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FOXLIFE" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/FOXLIFE.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FOX LIFE HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855730&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉MOVIESTAR" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/movie_star_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ MOVIE STAR
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855731&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉MOVIESTAR" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/movie_star_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ MOVIE STAR HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855732&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FENFOLK" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/FENFOLKTV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FEN FOLK TV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855733&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FOLKLOR" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/FOLKLORTV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FOLKLOR TV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855734&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TIANKOVORIENTFOLK" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/tiankov-folk-bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ TIANKOV ORIENT FOLK
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855735&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉CITYMUSIC" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/city_tv_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ CITY MUSIC HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855736&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉PLANETAFOLK" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/planeta_tv_folk.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ PLANETA FOLK
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855737&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉PLANETA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/PLANETATV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ PLANETA
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855738&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉THEVOICE" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/the_voice_tv_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ THE VOICE
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855739&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉MUSIC" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/bg_music_channel_bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BG MUSIC HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855740&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉FEN" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/FENTV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ FEN TV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855741&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BALⓂKANIKAMTV" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/balkanika-music-tv-bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ BAL ⓂKANIKA MTV HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855742&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉HOBBY" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/HOBBYTV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ HOBBY TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855743&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉HOBBYLOV" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/HOBBYLOV.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ HOBBY LOV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855744&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NATGEOWILD" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/NGWILD.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ NAT GEO WILD HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855745&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NATIONALⓂGEOGRAFIC" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/nat_geo_us.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ NATIONAL Ⓜ GEOGRAFIC HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855746&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉ANIMALⓂPLANET" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/a/ANIMAL-PLANET-HD.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ ANIMAL Ⓜ PLANET HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855747&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DISCOVERYCHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/discovery-channel-east-us.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ DISCOVERY CHANNEL HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855748&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉INVESTIGATIONDISCOVERYXTRA" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/IDXTRA.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ INVESTIGATION DISCOVERY XTRA FHD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855749&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉LOVENATURE" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ LOVE NATURE HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855750&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NATUREHISTORY" tvg-logo="http://sltv-logo.cms-s.com/logo/turkeyT/viasat_history.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ NATURE - HISTORY HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855751&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉VIASATHISTORY" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ VIASAT HISTORY HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855752&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉HISTORYCHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/h/HISTORY--.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ HISTORY CHANNEL HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855753&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉VIASATNATURE" tvg-logo="http://sltv-logo.cms-s.com/logo/logos_a-z/v/VIASAT-HISTORY-HD.jpg" group-title="BG 》 Bulgaria (Server 2)",BG◉ VIASAT NATURE
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855754&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉TRAVELCHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/travel-tv-bg.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ TRAVEL CHANNEL HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855755&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉24KITCHEN" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/24KITCHEN.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ 24 KITCHEN HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855756&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉CARTOONNETWORK" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/cartoon_network_global.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ CARTOON NETWORK HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855757&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DISNEYCHANNEL" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/DISNEYCHANNEL.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ DISNEY CHANNEL HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855758&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉EKIDS" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/EKIDS.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ E-KIDS HD
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855759&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NICKELODEON" tvg-logo="http://sltv-logo.cms-s.com/logo/L-sat05.01.21/Europe/Bulgaria/nickelodeon_us.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ NICKELODEON
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855760&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉DUCK" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ DUCK TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855761&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉BABY" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ BABY TV
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855762&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉NICKJR" tvg-logo="" group-title="BG 》 Bulgaria (Server 2)",BG◉ NICK JR
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855763&extension=ts
+#EXTINF:0 tvg-id="" tvg-name="◉KANALⓂ3" tvg-logo="http://sltv-logo.cms-s.com/logo/BULGARIA/KANAL3.png" group-title="BG 》 Bulgaria (Server 2)",BG◉ KANAL Ⓜ 3
+http://en.oxoplus1.com:8080/play/live.php?mac=00:1A:79:A1:C7:43&stream=11855764&extension=ts
